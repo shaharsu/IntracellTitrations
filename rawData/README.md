@@ -1,4 +1,5 @@
-This directory contains all raw data in .mat files readable by matlab. Each dataset is composed of a calibration jump under amber illumination (_calib.mat suffix) which is followed by a full jump under blue illumination (FRET data)
+This directory contains all raw data in .mat files readable by matlab. Each dataset is composed of a calibration jump under 
+amber illumination (_calib.mat suffix) which is followed by a full jump under blue illumination (FRET data)
 
 Each file contains the following fields:
 
